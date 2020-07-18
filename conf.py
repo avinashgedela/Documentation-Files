@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'Avinash'
+project = 'Attendance Mangement System'
 copyright = '2020, Avinash'
 author = 'Avinash'
 
